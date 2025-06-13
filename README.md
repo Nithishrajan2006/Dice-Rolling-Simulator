@@ -1,3 +1,4 @@
+            DICE ROLLING SIMULATOR
 How a Dice Rolling Simulator Works in Python
 A dice rolling simulator in Python uses the random module's randint() function to generate random numbers that simulate the roll of a die.
 
